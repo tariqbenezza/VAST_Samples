@@ -26,7 +26,7 @@
         </Creative>
       </Creatives>
       <VASTAdTagURI>
-        <![CDATA[https://raw.githubusercontent.com/InteractiveAdvertisingBureau/VAST_Samples/master/VAST%204.0%20Samples/Inline_Companion_Tag-test.xml]]>
+        <![CDATA[https://tariqbenezza.github.io/VAST_Samples/VAST%204.1%20Samples/Inline_Companion_Tag-test.xml]]>
       </VASTAdTagURI>
     </Wrapper>
   </Ad>
