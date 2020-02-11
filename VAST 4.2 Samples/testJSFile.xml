@@ -44,7 +44,7 @@
             <Duration>00:00:16</Duration>
             <MediaFiles>
               <MediaFile id="5241" delivery="progressive" type="application/javascript" bitrate="600" width="1280" height="720">
-                <![CDATA[http://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js]]>
+                <![CDATA[http://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js#zoneId=1652041&vav=5820fcf430f8e2e87dd180d09b93f453&vaviv=dad35740829c377a46f71beb36aa8863]]>
               </MediaFile>
             </MediaFiles>
             <VideoClicks>
