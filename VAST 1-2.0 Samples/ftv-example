@@ -1,0 +1,105 @@
+<VAST version="2.0">
+	<Ad id="test-xpln_orange-recyclage_reconditionne-15s-jun23">
+		<InLine>
+			<AdSystem>francetv publicite</AdSystem>
+			<AdTitle>test-xpln_orange-recyclage_reconditionne-15s-jun23</AdTitle>
+			<Description>Produit ID 93360 _ VAST ID 2023-697 _ 2023-06-16</Description>
+			<Impression>
+				<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22Impression%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%7D]]>
+			</Impression>
+			<Impression>
+				<![CDATA[https://ad.doubleclick.net/ddm/trackimp/N743372.109783FRANCETV/B30106586.369634479;dc_trk_aid=560240763;dc_trk_cid=193649513;ord=#{ad.ref.random};dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=#{GDPR};gdpr_consent=#{GDPR_CONSENT_285};ltd=;dc_tdv=1?]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[https://ad.doubleclick.net/ddm/trackclk/N743372.109783FRANCETV/B30106586.369634479;dc_trk_aid=560240763;dc_trk_cid=193649513;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1]]>
+							</ClickThrough>
+							<ClickTracking>
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22ClickTracking%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%7D]]>
+							</ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile apiFramework="VPAID" delivery="progressive" width="1280" height="720" scalable="true" type="application/javascript">
+								<![CDATA[https://cdn.xpln.tech/vpaid.js#xid=ftv&zid=orange-recyclage-jun-23&yid=ftv&aid=Test&oid=67444022&lid=67444021&cid=94281679&url=https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html&tid=71242276&mac=freewheel&vurl=[PAGEURL]&asm=1280x720&uid=85e48071-c229-4154-ba93-00143adfc018]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" bitrate="1000" width="1280" height="720" type="video/mp4">
+								<![CDATA[https://videos-pub.ftv-publicite.fr/media/1511/1511885/1511885.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22start%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22firstQuartile%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22midpoint%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22thirdQuartile%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22complete%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="fullscreen">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22fullscreen%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="expand">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22expand%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="collapse">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22collapse%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="close">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22close%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="creativeView">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22creativeView%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22mute%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22unmute%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22pause%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22resume%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+							<Tracking event="rewind">
+								<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22rewind%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22acvw%22%3A%22[VIEWABILITY]%22%7D]]>
+							</Tracking>
+						</TrackingEvents>
+						<AdParameters>
+							<![CDATA[&#60;VAST version="2.0"&#62;&#60;Ad id="test-xpln_orange-recyclage_reconditionne-15s-jun23"&#62;&#60;InLine&#62;&#60;AdSystem&#62;francetv publicite&#60;/AdSystem&#62;&#60;AdTitle&#62;test-xpln_orange-recyclage_reconditionne-15s-jun23&#60;/AdTitle&#62;&#60;Description&#62;Produit ID 93360 _ VAST ID 2023-697 _ 2023-06-16&#60;/Description&#62;&#60;Creatives&#62;&#60;Creative&#62;&#60;Linear&#62;&#60;Duration&#62;00:00:15&#60;/Duration&#62;&#60;VideoClicks&#62;&#60;ClickThrough&#62;&#60;![CDATA[https://ad.doubleclick.net/ddm/trackclk/N743372.109783FRANCETV/B30106586.369634479;dc_trk_aid=560240763;dc_trk_cid=193649513;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1]]&#62;&#60;/ClickThrough&#62;&#60;/VideoClicks&#62;&#60;MediaFiles&#62;&#60;MediaFile delivery="progressive" bitrate="1000" width="1280" height="720" type="video/mp4"&#62;&#60;![CDATA[https://videos-pub.ftv-publicite.fr/media/1511/1511885/1511885.mp4]]&#62;&#60;/MediaFile&#62;&#60;/MediaFiles&#62;&#60;/Linear&#62;&#60;/Creative&#62;&#60;/Creatives&#62;&#60;/InLine&#62;&#60;/Ad&#62;&#60;/VAST&#62;]]>
+						</AdParameters>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension type="AdVerifications">
+					<AdVerifications>
+						<Verification vendor="xpln.ai">
+							<JavaScriptResource apiFramework="omid" browserOptional="false">
+								<![CDATA[https://cdn.xpln.tech/omid.js]]>
+							</JavaScriptResource>
+							<VerificationParameters>
+								<![CDATA[{"uid":"85e48071-c229-4154-ba93-00143adfc018","mac":"freewheel","xid":"ftv","yid":"ftv","zid":"orange-recyclage-jun-23","aid":"Test","oid":"67444022","lid":"67444021","cid":"94281679","tid":"71242276","asm":"1280x720","url":"https://www.france.tv/la1ere/polynesie/hawaiki-nui-va-a/4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html","vurl":"[PAGEURL]"}]]>
+							</VerificationParameters>
+						</Verification>
+					</AdVerifications>
+				</Extension>
+			</Extensions>
+			<Error>
+				<![CDATA[https://log.xpln.tech/video?json=%7B%22tg%22%3A%22Error%22%2C%22src%22%3A%22vast%22%2C%22v%22%3A20230612%2C%22uid%22%3A%2285e48071-c229-4154-ba93-00143adfc018%22%2C%22url%22%3A%22https%3A%2F%2Fwww.france.tv%2Fla1ere%2Fpolynesie%2Fhawaiki-nui-va-a%2F4280488-hawaiki-nui-va-a-2022-la-course-dames-et-juniors-27-10-22.html%22%2C%22mac%22%3A%22freewheel%22%2C%22xid%22%3A%22ftv%22%2C%22yid%22%3A%22ftv%22%2C%22zid%22%3A%22orange-recyclage-jun-23%22%2C%22asm%22%3A%221280x720%22%2C%22vurl%22%3A%22[PAGEURL]%22%2C%22sts%22%3A%22[TIMESTAMP]%22%2C%22pst%22%3A%22[PLAYERSTATE]%22%2C%22ist%22%3A%22[INVENTORYSTATE]%22%2C%22cntid%22%3A%22[CONTENTID]%22%2C%22cnturi%22%3A%22[CONTENTURI]%22%2C%22bkpos%22%3A%22[BREAKPOSITION]%22%2C%22vact%22%3A%22[ADCOUNT]%22%2C%22errcode%22%3A%22[ERRORCODE]%22%7D]]>
+			</Error>
+		</InLine>
+	</Ad>
+</VAST>
