@@ -34,6 +34,12 @@
                             <MediaFile id="5241" delivery="progressive" type="video/mp4" bitrate="832" width="1920" height="1080" minBitrate="360" maxBitrate="1080" scalable="1" maintainAspectRatio="1" codec="0">
                                 <![CDATA[https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4]]>
                             </MediaFile>
+                            <MediaFile id="5242" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="143" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[ https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile id="5243" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="240" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[ https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4 ]]>
+                            </MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>
