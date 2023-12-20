@@ -32,13 +32,13 @@
                         </VideoClicks>
                         <MediaFiles>
                             <MediaFile id="5241" delivery="progressive" type="video/mp4" bitrate="832" width="1920" height="1080" minBitrate="360" maxBitrate="1080" scalable="1" maintainAspectRatio="1" codec="0">
-                                <![CDATA[https://file-examples.com/storage/fee4e04377657b56c9a6785/2017/04/file_example_MP4_1280_10MG.mp4]]>
+                                <![CDATA[https://tariqbenezza.github.io/VAST_Samples/VAST%203.0%20Samples/2023%20-%20Lamborghini%20Huracan%20STO.mp4]]>
                             </MediaFile>
                             <MediaFile id="5242" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="143" scalable="true" maintainAspectRatio="true">
-                                <![CDATA[https://file-examples.com/storage/fee4e04377657b56c9a6785/2017/04/file_example_MP4_480_1_5MG.mp4]]>
+                                <![CDATA[https://tariqbenezza.github.io/VAST_Samples/VAST%203.0%20Samples/2023%20-%20Lamborghini%20Huracan%20STO.mp4]]>
                             </MediaFile>
                             <MediaFile id="5243" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="240" scalable="true" maintainAspectRatio="true">
-                                <![CDATA[https://file-examples.com/storage/fee4e04377657b56c9a6785/2017/04/file_example_MP4_640_3MG.mp4]]>
+                                <![CDATA[https://tariqbenezza.github.io/VAST_Samples/VAST%203.0%20Samples/2023%20-%20Lamborghini%20Huracan%20STO.mp4]]>
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
