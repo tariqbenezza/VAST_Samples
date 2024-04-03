@@ -1,0 +1,232 @@
+<VAST version="4.2">
+	<Ad id="AdswizzAd2792325510">
+		<InLine>
+			<AdSystem>Adswizz</AdSystem>
+			<Error>https://ads.stickyadstv.com/error-tracking/?adId=2792325510&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=1&cb=1516935&errorCode=[ERRORCODE]&</Error>
+			<Extensions>
+				<Extension type="StickyBrand">
+					<Domain>ninjakitchen.fr</Domain>
+					<Sector>KITCHEN & HOUSEHOLD APPLIANCES</Sector>
+					<Advertiser>SharkNinja Operating LLC</Advertiser>
+					<Brand>Ninja Foodi</Brand>
+				</Extension>
+				<Extension type="StickyPricing">
+					<Price currency="EUR">9.000000</Price>
+				</Extension>
+				<Extension type="StickyViewability">https://ads.stickyadstv.com/viewability-tracking/?adId=2792325510&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=1&cb=7657334&state=[viewabilityState]&percentViewable=[percent]&focus=[focus]&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&orgc=EUR&pubw=9.0000&</Extension>
+			</Extensions>
+			<Impression id="2792325510">
+				<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsDisplayStarted&adId=2792325510&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=1&cb=5203685&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&listenerId=5bafe57ce363ec653c3e11374e73c52&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&campaignId=2790134579&orgp=12.0000&advw=12.0000&orgc=EUR&pubw=9.0000& ]]>
+			</Impression>
+			<Impression id="dmp-2792325510-1345">
+				<![CDATA[ https://aimfar.solution.weborama.fr/fcgi-bin/dispatch.fcgi?d.A=prd&d.key=EoKxSv6NT0tO&d.format=redirect&URL=https://ads.stickyadstv.com/data-registering?dataProviderId=1345&segments= ]]>
+			</Impression>
+			<Impression id="dmp-2792325510-3217">
+				<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=3217&redirectId=1409 ]]>
+			</Impression>
+			<Impression id="dmp-2792325510-3201">
+				<![CDATA[ https://loadeu.exelator.com/load/?p=204&g=108&buid=5bafe57ce363ec653c3e11374e73c52 ]]>
+			</Impression>
+			<Impression id="dmp-2792325510-293">
+				<![CDATA[ https://loadr.exelator.com/load/?p=104&g=890&j=0 ]]>
+			</Impression>
+			<Impression id="dmp-2792325510-3546">
+				<![CDATA[ https://sync.crwdcntrl.net/qmap?c=17270&e=app&ua=8&tp=FRWL&tpid=5bafe57ce363ec653c3e11374e73c52&gdpr=0&gdpr_consent= ]]>
+			</Impression>
+			<Impression id="user-sync-2792325510-1">
+				<![CDATA[ https://ads.stickyadstv.com/auto-user-sync?px=18&listenerId=5bafe57ce363ec653c3e11374e73c52&_fw_gdpr_consent= ]]>
+			</Impression>
+			<AdServingId/>
+			<AdTitle>06s_Ninja-AF300_M6 IPTV</AdTitle>
+			<AdVerifications>
+				<Verification vendor="moat.com-omsdkfreewheelsspvideo288070335687">
+					<JavaScriptResource apiFramework="omid" browserOptional="true">
+						<![CDATA[ https://z.moatads.com/omsdkfreewheelsspvideo288070335687/moatvideo.js ]]>
+					</JavaScriptResource>
+					<VerificationParameters>{"moatClientLevel1":"18","moatClientLevel2":"804","moatClientLevel3":"1150521","moatClientLevel4":"12402513","moatClientSlicer1":"2790134579","moatClientSlicer2":"{dealid}"}</VerificationParameters>
+				</Verification>
+			</AdVerifications>
+			<Creatives>
+				<Creative sequence="1" id="2792325510">
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2792325510&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=1&cb=6785892&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&displayPercentage=0&time=0&orgc=EUR&tagsArray=&pubw=9.0000& ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2792325510&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=1&cb=6042275&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&displayPercentage=25&time=1&orgc=EUR&tagsArray=&pubw=9.0000& ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2792325510&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=1&cb=4047302&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&displayPercentage=50&time=3&orgc=EUR&tagsArray=&pubw=9.0000& ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2792325510&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=1&cb=3739257&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&displayPercentage=75&time=4&orgc=EUR&tagsArray=&pubw=9.0000& ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=433&all=vtr75&privateExchangeId=18 ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=433&c39=vtr75&privateExchangeId=18 ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsDisplayEnd&adId=2792325510&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=1&cb=2836241&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&displayPercentage=100&time=6&orgc=EUR&tagsArray=&pubw=9.0000& ]]>
+							</Tracking>
+						</TrackingEvents>
+						<AdParameters>
+							<Extensions>
+								<Extension type='StickyBrand'>
+									<Domain>ninjakitchen.fr</Domain>
+									<Sector>KITCHEN &amp; HOUSEHOLD APPLIANCES</Sector>
+									<Advertiser>SharkNinja Operating LLC</Advertiser>
+									<Brand>Ninja Foodi</Brand>
+								</Extension>
+								<Extension type='StickyPricing'>
+									<Price currency="EUR">9.000000</Price>
+								</Extension>
+								<Extension type="StickyViewability">https://ads.stickyadstv.com/viewability-tracking/?adId=2792325510&amp;viewKey=1712067109905006-580&amp;sessionId=1712067109905007-580&amp;zoneId=12402513&amp;impId=1&amp;cb=4250605&amp;state=[viewabilityState]&amp;percentViewable=[percent]&amp;focus=[focus]&amp;ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&amp;ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&amp;orgp=12.0000&amp;advw=12.0000&amp;orgc=EUR&amp;pubw=9.0000&amp;</Extension>
+							</Extensions>
+						</AdParameters>
+						<Duration>00:00:06</Duration>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" width="1280" height="720" bitrate="1352" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://cdn.stickyadstv.com/www/images/2792325510-tv-high-MP4-66054dc1779b0.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="2320" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://cdn.stickyadstv.com/www/images/2792325510-tv-hd-MP4-66054dc177b77.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+						<VideoClicks>
+							<ClickTracking id="3rdparty-click-2792325510-0">
+								<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=433&all=ctr&privateExchangeId=18 ]]>
+							</ClickTracking>
+							<ClickTracking id="3rdparty-click-2792325510-1">
+								<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=433&c39=ctr&privateExchangeId=18 ]]>
+							</ClickTracking>
+							<ClickThrough id="2792325510">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsClickThrough&adId=2792325510&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=1&cb=7044929&url=https%3A%2F%2Fninjakitchen.fr%2Fninja-catalogue%2Ffriteuses-sans-huile%2F%3Futm_source%3DPaid-Display%26utm_medium%3DEdge-BVOD%26utm_campaign%3DFR%257CNINJA%257CAIRFRYER%257CBVOD%257CAWAR%257CApril%257CJune%257C2024%257CQ2%257CPO-046-225631%26utm_term%3DNoSkippableutm_content%3DAF300& ]]>
+							</ClickThrough>
+							<CustomClick id="2792325510">https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsClicked&adId=2792325510&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=1&cb=8040071&clickX=[clickX]&clickY=[clickY]&time=[timestamp]&tagsArray=&</CustomClick>
+						</VideoClicks>
+					</Linear>
+					<UniversalAdId idRegistry="unknown"/>
+				</Creative>
+			</Creatives>
+			<Description>06s_Ninja-AF300_M6 IPTV</Description>
+		</InLine>
+	</Ad>
+	<Ad id="AdswizzAd2792323625">
+		<InLine>
+			<AdSystem>Adswizz</AdSystem>
+			<Error>https://ads.stickyadstv.com/error-tracking/?adId=2792323625&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=2&cb=1451924&errorCode=[ERRORCODE]&</Error>
+			<Extensions>
+				<Extension type="StickyBrand">
+					<Domain>ninjakitchen.fr</Domain>
+					<Sector>KITCHEN & HOUSEHOLD APPLIANCES</Sector>
+					<Advertiser>SharkNinja Operating LLC</Advertiser>
+					<Brand>Ninja Foodi</Brand>
+				</Extension>
+				<Extension type="StickyPricing">
+					<Price currency="EUR">9.000000</Price>
+				</Extension>
+				<Extension type="StickyViewability">https://ads.stickyadstv.com/viewability-tracking/?adId=2792323625&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=2&cb=825573&state=[viewabilityState]&percentViewable=[percent]&focus=[focus]&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&orgc=EUR&pubw=9.0000&</Extension>
+			</Extensions>
+			<Impression id="2792323625">
+				<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsDisplayStarted&adId=2792323625&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=2&cb=8963324&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&listenerId=5bafe57ce363ec653c3e11374e73c52&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&campaignId=2790132508&orgp=12.0000&advw=12.0000&orgc=EUR&pubw=9.0000& ]]>
+			</Impression>
+			<Impression id="dmp-2792323625-1345">
+				<![CDATA[ https://aimfar.solution.weborama.fr/fcgi-bin/dispatch.fcgi?d.A=prd&d.key=EoKxSv6NT0tO&d.format=redirect&URL=https://ads.stickyadstv.com/data-registering?dataProviderId=1345&segments= ]]>
+			</Impression>
+			<Impression id="dmp-2792323625-3217">
+				<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=3217&redirectId=1409 ]]>
+			</Impression>
+			<Impression id="dmp-2792323625-3201">
+				<![CDATA[ https://loadeu.exelator.com/load/?p=204&g=108&buid=5bafe57ce363ec653c3e11374e73c52 ]]>
+			</Impression>
+			<Impression id="dmp-2792323625-293">
+				<![CDATA[ https://loadr.exelator.com/load/?p=104&g=890&j=0 ]]>
+			</Impression>
+			<Impression id="dmp-2792323625-3546">
+				<![CDATA[ https://sync.crwdcntrl.net/qmap?c=17270&e=app&ua=8&tp=FRWL&tpid=5bafe57ce363ec653c3e11374e73c52&gdpr=0&gdpr_consent= ]]>
+			</Impression>
+			<Impression id="user-sync-2792323625-1">
+				<![CDATA[ https://ads.stickyadstv.com/auto-user-sync?px=18&listenerId=5bafe57ce363ec653c3e11374e73c52&_fw_gdpr_consent= ]]>
+			</Impression>
+			<AdServingId/>
+			<AdTitle>15s_Ninja Outdoor-WoodfireRange_M6 IPTV</AdTitle>
+			<AdVerifications>
+				<Verification vendor="moat.com-omsdkfreewheelsspvideo288070335687">
+					<JavaScriptResource apiFramework="omid" browserOptional="true">
+						<![CDATA[ https://z.moatads.com/omsdkfreewheelsspvideo288070335687/moatvideo.js ]]>
+					</JavaScriptResource>
+					<VerificationParameters>{"moatClientLevel1":"18","moatClientLevel2":"804","moatClientLevel3":"1150521","moatClientLevel4":"12402513","moatClientSlicer1":"2790132508","moatClientSlicer2":"{dealid}"}</VerificationParameters>
+				</Verification>
+			</AdVerifications>
+			<Creatives>
+				<Creative sequence="1" id="2792323625">
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2792323625&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=2&cb=2971346&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&displayPercentage=0&time=0&orgc=EUR&tagsArray=&pubw=9.0000& ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2792323625&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=2&cb=1584740&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&displayPercentage=25&time=3&orgc=EUR&tagsArray=&pubw=9.0000& ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2792323625&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=2&cb=8957824&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&displayPercentage=50&time=7&orgc=EUR&tagsArray=&pubw=9.0000& ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2792323625&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=2&cb=6300085&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&displayPercentage=75&time=11&orgc=EUR&tagsArray=&pubw=9.0000& ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=433&all=vtr75&privateExchangeId=18 ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=433&c39=vtr75&privateExchangeId=18 ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsDisplayEnd&adId=2792323625&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=2&cb=8197742&ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&orgp=12.0000&advw=12.0000&displayPercentage=100&time=15&orgc=EUR&tagsArray=&pubw=9.0000& ]]>
+							</Tracking>
+						</TrackingEvents>
+						<AdParameters>
+							<Extensions>
+								<Extension type='StickyBrand'>
+									<Domain>ninjakitchen.fr</Domain>
+									<Sector>KITCHEN &amp; HOUSEHOLD APPLIANCES</Sector>
+									<Advertiser>SharkNinja Operating LLC</Advertiser>
+									<Brand>Ninja Foodi</Brand>
+								</Extension>
+								<Extension type='StickyPricing'>
+									<Price currency="EUR">9.000000</Price>
+								</Extension>
+								<Extension type="StickyViewability">https://ads.stickyadstv.com/viewability-tracking/?adId=2792323625&amp;viewKey=1712067109905006-580&amp;sessionId=1712067109905007-580&amp;zoneId=12402513&amp;impId=2&amp;cb=8615692&amp;state=[viewabilityState]&amp;percentViewable=[percent]&amp;focus=[focus]&amp;ibpiv=1a6aaaba4f87f05e514bb33b85ee334c&amp;ibp=a0b12c4758a840c761b3ba85bb0a100b40e81af3654e0f9fc08a31028420bc81a4322654febbafee0fdfe87586b2a833af1f38aca2dcefa151214942781698a416c5a6fba84b509dc4cd92e3ff3c6869&amp;orgp=12.0000&amp;advw=12.0000&amp;orgc=EUR&amp;pubw=9.0000&amp;</Extension>
+							</Extensions>
+						</AdParameters>
+						<Duration>00:00:15</Duration>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" width="1280" height="720" bitrate="1294" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://cdn.stickyadstv.com/www/images/2792323625-tv-high-MP4-660c10a2f1d3c.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="2205" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://cdn.stickyadstv.com/www/images/2792323625-tv-hd-MP4-660c10a0322f8.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+						<VideoClicks>
+							<ClickTracking id="3rdparty-click-2792323625-0">
+								<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=433&all=ctr&privateExchangeId=18 ]]>
+							</ClickTracking>
+							<ClickTracking id="3rdparty-click-2792323625-1">
+								<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=433&c39=ctr&privateExchangeId=18 ]]>
+							</ClickTracking>
+							<ClickThrough id="2792323625">
+								<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsClickThrough&adId=2792323625&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=2&cb=1558989&url=https%3A%2F%2Fninjakitchen.fr%2Fninja-catalogue%2Fbarbecue-woodfire-ninja%2F%3Futm_source%3DPaid-Display%26utm_medium%3DEdge-BVOD%26utm_campaign%3DFR%257CNINJA%257CAIRFRYER%257CBVOD%257CAWAR%257CApril%257CMay%257C2024%257CQ2%257CPO-046-225631%26utm_term%3DNoSkippableutm_content%3DWoodfireRange& ]]>
+							</ClickThrough>
+							<CustomClick id="2792323625">https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsClicked&adId=2792323625&viewKey=1712067109905006-580&sessionId=1712067109905007-580&zoneId=12402513&impId=2&cb=617098&clickX=[clickX]&clickY=[clickY]&time=[timestamp]&tagsArray=&</CustomClick>
+						</VideoClicks>
+					</Linear>
+					<UniversalAdId idRegistry="unknown"/>
+				</Creative>
+			</Creatives>
+			<Description>15s_Ninja Outdoor-WoodfireRange_M6 IPTV</Description>
+		</InLine>
+	</Ad>
+</VAST>
