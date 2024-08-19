@@ -1,0 +1,119 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+	<script/>
+	<Ad id="03da3aac-0003-0000-9377-4144464f524d">
+		<InLine>
+			<AdSystem version="3">Adform</AdSystem>
+			<AdTitle>FR_viad_0C71_M6_LOM1_-_-_30_1920x1080_-_FRA_AWAR</AdTitle>
+			<Error>
+				<![CDATA[ https://track.adform.net/videoad/error/?bn=74869334&v=2&bt=0&errcode=[ERRORCODE] ]]>
+			</Error>
+			<Impression id="adform">
+				<![CDATA[ https://track.adform.net/videoad/impr/?bn=74869334;rotseqno=1;smid=0;1x1inv=1;srctype=3;unloadid=3241744839018796342;ord=625442 ]]>
+			</Impression>
+			<Creatives>
+				<Creative id="64633516_1" sequence="1" AdID="03da3aac-0003-0000-9377-4144464f524d">
+					<Linear>
+						<Duration>00:00:30</Duration>
+						<TrackingEvents>
+							<Tracking event="creativeView">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=40&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="start">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=25&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=26&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=27&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=28&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=29&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=34&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=33&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=31&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=37&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="fullscreen">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=35&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="rewind">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=38&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+							<Tracking event="close">
+								<![CDATA[ https://track.adform.net/videoad/event/?bn=74869334&event=23&time=0&banner=64633516&imprid=3241744839018796342&rnd=625442& ]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[ https://track.adform.net/videoad/c/?bn=74869334;cdata=jeeTgQ_kupDFUXaXw4AehhHUd2FWIxatUgWgDz6V2Nk3iDmbWIBvS-FBboVeNKvP0;C=1; ]]>
+							</ClickThrough>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="390" width="416" height="234" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://s2.adform.net/banners/elements/files/2122079/15376126.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="836" width="832" height="468" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://s2.adform.net/banners/elements/files/2122079/15376127.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="652" width="640" height="360" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://s2.adform.net/banners/elements/files/2122079/15376128.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1509" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://s2.adform.net/banners/elements/files/2122079/15376130.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/webm" bitrate="256" width="416" height="234" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://s2.adform.net/banners/elements/files/2122079/15376131.webm]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/webm" bitrate="382" width="640" height="360" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://s2.adform.net/banners/elements/files/2122079/15376134.webm]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2150" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://s2.adform.net/banners/elements/files/2122079/15376138.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/webm" bitrate="490" width="832" height="468" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://s2.adform.net/banners/elements/files/2122079/15376142.webm]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/webm" bitrate="806" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://s2.adform.net/banners/elements/files/2122079/15376151.webm]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/webm" bitrate="1187" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://s2.adform.net/banners/elements/files/2122079/15376159.webm]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension type="AdVerifications">
+					<AdVerifications>
+						<Verification vendor="adform.com-omid">
+							<JavaScriptResource apiFramework="omid" browserOptional="true">
+								<![CDATA[ https://s2.adform.net/banners/scripts/vast-verification.js?rnd=632 ]]>
+							</JavaScriptResource>
+							<TrackingEvents>
+								<Tracking event="verificationNotExecuted">
+									<![CDATA[ https://track.adform.net/videoad/error/?bn=74869334&v=2&bt=0&errcode=[REASON] ]]>
+								</Tracking>
+							</TrackingEvents>
+							<VerificationParameters>
+								<![CDATA[ {"host":"https://track.adform.net","visitor":{"cookieId":"0"},"interactionId":"3241744839018796342","visibility":{"sendUnload":true,"area":[50],"time":[2]},"banner":{"id":64633516,"isEventEnabled":true,"tagId":74869334},"geoData":"5860;47;840","deviceInfo":{"deviceType":"Desktop"}} ]]>
+							</VerificationParameters>
+						</Verification>
+					</AdVerifications>
+				</Extension>
+			</Extensions>
+		</InLine>
+	</Ad>
+</VAST>
